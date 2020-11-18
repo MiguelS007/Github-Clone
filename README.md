@@ -1,18 +1,18 @@
 # Github-Clone
 Clone do Github com direito a darkmode 😍
 
-## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/61780220?s=400&u=f70299eb4ea11b4db2643818c9dfe4185e5898c7&v=4" width="75px;"/>](https://github.com/MiguelS007)
-
-[Miguel Sodré](https://github.com/MiguelS007)
-
 ## Techs
 
 - [x] Fetch API
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
+
+## Participants
+
+[<img src="https://avatars3.githubusercontent.com/u/61780220?s=400&u=f70299eb4ea11b4db2643818c9dfe4185e5898c7&v=4" width="75px;"/>](https://github.com/MiguelS007)
+
+[Miguel Sodré](https://github.com/MiguelS007)
 
 ## Ideas to implement
 
